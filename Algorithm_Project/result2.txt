@@ -1,0 +1,95 @@
+k values are equal to size divided by 4
+1-)Insertion sort;
+	
+	input 5000(s/4)=>24 ms
+	input 10000(s/4)=>48 ms 
+	input 20000(s/4)=>214 ms
+	input 30000(s/4)=>386 ms
+	input 40000(s/4)=>845 ms
+	input 50000(s/4)=>1232 ms
+	input 80000(s/4)=>2685 ms
+	
+        
+2-)Merge sort;
+	input 5000(s/4)=> 2 ms
+	input 10000(s/4)=>6 ms
+	input 20000(s/4)=>8 ms
+	input 30000(s/4)=>14 ms
+	input 40000(s/4)=>17 ms
+	input 50000(s/4)=>28 ms
+	input 80000(s/4)=>69 ms
+	input 100000(s/4)=>80 ms
+	input 500000(s/4)=>221 ms
+	input 1000000(s/4)=>415 ms
+	input 2000000(s/4)=>732 ms
+	input 3000000(s/4)=>1052 ms
+	
+
+3-) Quick sort;
+	input 5000(s/4)=> 2 ms
+	input 10000(s/4)=>4 ms
+	input 20000(s/4)=>7 ms
+	input 30000(s/4)=>15 ms
+	input 40000(s/4)=>21 ms
+	input 50000(s/4)=>32 ms
+	input 80000(s/4)=>45 ms
+	input 100000(s/4)=>50 ms
+	input 500000(s/4)=>138 ms
+	input 1000000(s/4)=>260 ms
+	input 2000000(s/4)=>477 ms
+	input 3000000(s/4)=>695 ms
+	
+4-) Partial selection sort;
+	input 5000(s/4)=> 28 ms
+	input 10000(s/4)=>69 ms
+	input 20000(s/4)=>357 ms
+	input 30000(s/4)=>853 ms
+	input 40000(s/4)=>1895 ms
+	input 50000(s/4)=>3450 ms
+	input 80000(s/4)=>4679 ms
+	input 100000(s/4)=>8567 ms
+	
+5-) Partial Heap sort;
+	input 5000(s/4)=> 2 ms
+	input 10000(s/4)=>4 ms
+	input 20000(s/4)=>9 ms
+	input 30000(s/4)=>13 ms
+	input 40000(s/4)=>16 ms
+	input 50000(s/4)=>18 ms
+	input 80000(s/4)=>21 ms
+	input 100000(s/4)=>38 ms
+	input 500000(s/4)=>160 ms
+	input 1000000(s/4)=>271 ms
+	input 2000000(s/4)=>659 ms
+	input 3000000(s/4)=>1066 ms
+6-) Quick select;
+	input 5000(s/4)=> 1 ms
+	input 10000(s/4)=>3 ms
+	input 20000(s/4)=>3 ms
+	input 30000(s/4)=>4 ms
+	input 40000(s/4)=>4 ms
+	input 50000(s/4)=>6 ms
+	input 80000(s/4)=>8 ms
+	input 100000(s/4)=>7 ms
+	input 500000(s/4)=>19 ms
+	input 1000000(s/4)=>25 ms
+	input 2000000(s/4)=>51 ms
+	input 3000000(s/4)=>67 ms
+7-) Quick select (Median of three);
+	input 5000(s/4)=> 0 ms
+	input 10000(s/4)=>1 ms
+	input 20000(s/4)=>3 ms
+	input 30000(s/4)=>2 ms
+	input 40000(s/4)=>6 ms
+	input 50000(s/4)=>5 ms
+	input 80000(s/4)=>7 ms
+	input 100000(s/4)=>9 ms
+	input 500000(s/4)=>16 ms
+	input 1000000(s/4)=>19 ms
+	input 2000000(s/4)=>41 ms
+	input 3000000(s/4)=>60 ms
+	input 5000000(s/4)=>81 ms
+	
+	
+	
+	

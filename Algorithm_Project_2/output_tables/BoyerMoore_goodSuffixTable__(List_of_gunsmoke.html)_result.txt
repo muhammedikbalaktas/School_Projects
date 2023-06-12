@@ -1,0 +1,3 @@
+Number of comparison:45975
+2
+1

@@ -1,0 +1,4 @@
+Number of comparison:45611
+3
+3
+1

@@ -1,0 +1,5 @@
+Number of comparison:16512
+4
+4
+2
+1

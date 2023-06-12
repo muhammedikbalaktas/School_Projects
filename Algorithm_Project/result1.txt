@@ -1,0 +1,95 @@
+k values are half of input size
+1-)Insertion sort;
+	
+	input 5000(2500)=>17 ms
+	input 10000(5000)=>69 ms 
+	input 20000(10000)=>245 ms
+	input 30000(15000)=>428 ms
+	input 40000(20000)=>927 ms
+	input 50000(25000)=>1228 ms
+	input 80000(40000)=>2793 ms
+	
+        
+2-)Merge sort;
+	input 5000(2500)=> 4 ms
+	input 10000(5000)=>9 ms
+	input 20000(10000)=>10 ms
+	input 30000(15000)=>16 ms
+	input 40000(20000)=>21 ms
+	input 50000(25000)=>33 ms
+	input 80000(40000)=>72 ms
+	input 100000(50000)=>83 ms
+	input 500000(50000)=>228 ms
+	input 1000000(50000)=>429 ms
+	input 2000000(50000)=>748 ms
+	input 3000000(50000)=>1109 ms
+	
+
+3-) Quick sort;
+	input 5000(2500)=> 8 ms
+	input 10000(5000)=>14 ms
+	input 20000(10000)=>19 ms
+	input 30000(15000)=>21 ms
+	input 40000(20000)=>37 ms
+	input 50000(25000)=>41 ms
+	input 80000(40000)=>56 ms
+	input 100000(50000)=>45 ms
+	input 500000(50000)=>149 ms
+	input 1000000(50000)=>195 ms
+	input 2000000(50000)=>385 ms
+	input 3000000(50000)=>736 ms
+	
+4-) Partial selection sort;
+	input 5000(2500)=> 50 ms
+	input 10000(5000)=>146 ms
+	input 20000(10000)=>565 ms
+	input 30000(15000)=>1270 ms
+	input 40000(20000)=>2492 ms
+	input 50000(25000)=>3714 ms
+	input 80000(40000)=>9163 ms
+	input 100000(50000)=>14153 ms
+	
+5-) Partial Heap sort;
+	input 5000(2500)=> 2 ms
+	input 10000(5000)=>4 ms
+	input 20000(10000)=>9 ms
+	input 30000(15000)=>13 ms
+	input 40000(20000)=>16 ms
+	input 50000(25000)=>18 ms
+	input 80000(40000)=>21 ms
+	input 100000(50000)=>38 ms
+	input 500000(250000)=>160 ms
+	input 1000000(500000)=>271 ms
+	input 2000000(100000)=>659 ms
+	input 3000000(150000)=>1066 ms
+6-) Quick select;
+	input 5000(2500)=> 1 ms
+	input 10000(5000)=>3 ms
+	input 20000(10000)=>3 ms
+	input 30000(15000)=>4 ms
+	input 40000(20000)=>4 ms
+	input 50000(25000)=>6 ms
+	input 80000(40000)=>8 ms
+	input 100000(50000)=>7 ms
+	input 500000(250000)=>19 ms
+	input 1000000(500000)=>25 ms
+	input 2000000(100000)=>51 ms
+	input 3000000(150000)=>67 ms
+7-) Quick select (Median of three);
+	input 5000(2500)=> 0 ms
+	input 10000(5000)=>1 ms
+	input 20000(10000)=>3 ms
+	input 30000(15000)=>2 ms
+	input 40000(20000)=>6 ms
+	input 50000(25000)=>5 ms
+	input 80000(40000)=>7 ms
+	input 100000(50000)=>9 ms
+	input 500000(250000)=>16 ms
+	input 1000000(500000)=>18 ms
+	input 2000000(100000)=>41 ms
+	input 3000000(150000)=>60 ms
+	input 5000000(150000)=>81 ms
+	
+	
+	
+	

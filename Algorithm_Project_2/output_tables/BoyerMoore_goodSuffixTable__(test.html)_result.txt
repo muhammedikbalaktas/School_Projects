@@ -1,0 +1,8 @@
+Number of comparison:31
+5
+5
+5
+5
+5
+3
+1
